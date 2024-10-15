@@ -1,7 +1,7 @@
 ## tell the yolo model where to find my data
 
-train: C:\Users\Solon\Desktop\Projects\Personal\Current\Group Project (admin)\ml\dataset_ann\yolov8\images\train  #training imgs
-val: C:\Users\Solon\Desktop\Projects\Personal\Current\Group Project (admin)\ml\dataset_ann\yolov8\images\val      # val imgs
+train: ..\dataset_ann\yolov8\images\train  #training imgs
+val: ..\dataset_ann\yolov8\images\val      # val imgs
 
 # class name & numbers
 nc: 1 
